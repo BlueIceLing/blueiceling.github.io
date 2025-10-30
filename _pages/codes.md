@@ -43,9 +43,10 @@ See our Github site for relevant group codes:
 
 <div class="hf-embed">
   <iframe
-    title="SLICES / CIF Converter (Hugging Face Space)"
-    src="https://xiaohang07-SLICES.hf.space"
-    loading="lazy"
-    allow="clipboard-write; microphone; camera; fullscreen"></iframe>
+	src="https://blueiceling-ling.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+  ></iframe>
 </div>
 
